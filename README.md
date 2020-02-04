@@ -25,6 +25,6 @@ We recoment Ubuntu operating system with python3.5+ installed.
 
 ![visualize digits separable postreservoir 2](figures/visualize_digits_separable_postreservoir_2.png?raw=true)
 
-![Noise model](figures/NoiseModelPauliChannel_10_qubit_GHZ_state_1000_Trial_Measurements?raw=true)
+![Noise model](figures/NoiseModelPauliChannel_10_qubit_GHZ_state_1000_Trial_Measurements.png?raw=true)
 
 ![Confusion matrix](figures/confusion_matrix.png?raw=true)
