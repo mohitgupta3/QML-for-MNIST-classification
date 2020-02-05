@@ -12,19 +12,22 @@ First, you need to get an API key for the rigetti forest API. <br>After installi
 This will run the model end to end.
 
 * In the area of quantum information theory, a GHZ state is a certain type of entangled <br>quantum state that involves at     least three subsystems (particle states, or qubits).
-
-QVm stands for Quality Virtual machine...
-
-We recoment Ubuntu operating system with python3.5+ installed.
+* QVm stands for Quality Virtual machine...
+* We recoment Ubuntu operating system with python3.5+ installed.
 
 
-##Sample Results:
+## Sample Results:
+### visualize digits separable postreservoir 0
 ![visualize digits separable postreservoir 0](figures/visualize_digits_separable_postreservoir_0.png?raw=true)
 
+### visualize digits separable postreservoir 1
 ![visualize digits separable postreservoir 1](figures/visualize_digits_separable_postreservoir_1.png?raw=true)
 
+### visualize digits separable postreservoir 2
 ![visualize digits separable postreservoir 2](figures/visualize_digits_separable_postreservoir_2.png?raw=true)
 
-![Noise model](figures/NoiseModelPauliChannel_10_qubit_GHZ_state_1000_Trial_Measurements.png?raw=true)
+### Noise model
+![Noise_model](figures/NoiseModelPauliChannel_10_qubit_GHZ_state_1000_Trial_Measurements.png?raw=true)
 
+### Confusion Matrix
 ![Confusion matrix](figures/confusion_matrix.png?raw=true)
