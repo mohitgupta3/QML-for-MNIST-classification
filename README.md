@@ -1,6 +1,6 @@
 # QML-for-MNIST-classification
 Quantum machine learning implementation for the classification of MNIST dataset.
-Simulates 10 Greenberger–Horne–Zeilinger (GHZ) states with QVM noice model.
+Simulates 10 Greenberger–Horne–Zeilinger (GHZ) states with QVM noise model.
 
 The model reduces MNIST data to 16 dimensions using PCA, applies reservoir computing to the output, and finally classifies the data using a neural network.
 ___
