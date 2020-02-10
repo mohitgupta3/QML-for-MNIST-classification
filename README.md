@@ -5,7 +5,7 @@ Simulates 10 Greenberger–Horne–Zeilinger (GHZ) states with QVM noise model.
 The model reduces MNIST data to 16 dimensions using PCA, applies reservoir computing to the output, and finally classifies the data using a neural network.
 ___
 ## Running the model
-First, you need to get an API key for the [rigetti forest API](https://www.rigetti.com/systems). <br>After installing the remaining packages, run
+First, you need to get an API key for the [rigetti forest API](https://www.rigetti.com). <br>After installing the remaining packages, run
 
 `$ python cca_nn_classifier.py`
 
